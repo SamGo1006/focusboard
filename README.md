@@ -12,6 +12,8 @@
 - Keyboard-operable controls, visible focus states, accessible labels, and live status messages.
 - Plain-text task rendering; no external fonts, analytics, or runtime packages.
 
+[Try the live demo](https://samgo1006.github.io/focusboard/) — no account required.
+
 ## Quick start
 
 Node.js 22+ and a current browser; no install step. Run these commands from the repository root after cloning.
